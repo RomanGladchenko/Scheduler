@@ -16,7 +16,7 @@ namespace Gl.FileManipulation
 
             using (StreamWriter sw = new StreamWriter("../../FileUpload/"+FileName))
             {
-                sw.WriteLine("ID;TEXT;ACTIVE;");
+                sw.WriteLine("Id;Text;Active;");
                 foreach (var item in obj)
                 {
 
