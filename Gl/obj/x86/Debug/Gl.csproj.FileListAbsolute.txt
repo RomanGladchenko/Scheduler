@@ -10,3 +10,5 @@
 /Users/romangladcenko/Projects/Gl/Gl/bin/Debug/EntityFramework.xml
 /Users/romangladcenko/Projects/Gl/Gl/bin/Debug/EntityFramework.SqlServer.xml
 /Users/romangladcenko/Projects/Gl/Gl/obj/x86/Debug/Gl.csproj.CopyComplete
+/Users/romangladcenko/Desktop/Gl/Gl/obj/x86/Debug/Gl.csprojAssemblyReference.cache
+/Users/romangladcenko/Desktop/Gl/Gl/obj/x86/Debug/Gl.csproj.CoreCompileInputs.cache
