@@ -124,7 +124,7 @@ namespace Gl
 
                     case 10:
 
-                        Console.WriteLine("Add new Record")
+                        Console.WriteLine("Add new Record");
                         Record.Add(new ConnectionInfo(id:Record.Count+1,text:Console.ReadLine(),false));
                         ShowMessagePressAnyKey();
                         break;
