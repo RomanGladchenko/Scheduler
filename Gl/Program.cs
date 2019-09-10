@@ -61,7 +61,6 @@ namespace Gl
 
                     case 3:
 
-                        
                         Console.WriteLine("Find Record By Text");
                         string TextForSearchRecords = Console.ReadLine();
                         RecordList<ConnectionInfo>.PrintRecord(Record.FindAll(x => x.Text.Contains(TextForSearchRecords)));
@@ -70,7 +69,6 @@ namespace Gl
 
                     case 4:
 
-
                         Console.WriteLine("Delete Record By Id");
                         Int32.TryParse(Console.ReadLine(), out Int32 DeleteById);
                         Record.RemoveAll(x => (x.Id == DeleteById));
@@ -78,7 +76,6 @@ namespace Gl
                         break;
 
                     case 5:
-
 
                         Console.WriteLine("Edit Text Record By Id");
                         Int32.TryParse(Console.ReadLine(), out Int32 IdForSearchRecords);
