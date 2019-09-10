@@ -46,7 +46,6 @@ namespace Gl
                     case 1:
 
                         Console.WriteLine("Read from file");
-                        Record.Clear();
                         String FileName = Console.ReadLine() + ".txt";
                         Record = ConnectionLoader.LoadText(FileName, true).Result;
                         ShowMessagePressAnyKey();
