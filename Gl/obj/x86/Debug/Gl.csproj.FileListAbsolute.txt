@@ -1,0 +1,12 @@
+/Users/romangladcenko/Projects/Gl/Gl/obj/x86/Debug/Gl.csproj.CoreCompileInputs.cache
+/Users/romangladcenko/Projects/Gl/Gl/bin/Debug/Gl.exe
+/Users/romangladcenko/Projects/Gl/Gl/bin/Debug/Gl.pdb
+/Users/romangladcenko/Projects/Gl/Gl/obj/x86/Debug/Gl.exe
+/Users/romangladcenko/Projects/Gl/Gl/obj/x86/Debug/Gl.pdb
+/Users/romangladcenko/Projects/Gl/Gl/obj/x86/Debug/Gl.csprojAssemblyReference.cache
+/Users/romangladcenko/Projects/Gl/Gl/bin/Debug/Gl.exe.config
+/Users/romangladcenko/Projects/Gl/Gl/bin/Debug/EntityFramework.dll
+/Users/romangladcenko/Projects/Gl/Gl/bin/Debug/EntityFramework.SqlServer.dll
+/Users/romangladcenko/Projects/Gl/Gl/bin/Debug/EntityFramework.xml
+/Users/romangladcenko/Projects/Gl/Gl/bin/Debug/EntityFramework.SqlServer.xml
+/Users/romangladcenko/Projects/Gl/Gl/obj/x86/Debug/Gl.csproj.CopyComplete
